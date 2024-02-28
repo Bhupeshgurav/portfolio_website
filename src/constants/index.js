@@ -46,11 +46,11 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Flutter Developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "ML Full Stack Developer",
     icon: backend,
   },
   {
@@ -108,65 +108,60 @@ const technologies = [
     name: "figma",
     icon: figma,
   },
-  {
-    name: "docker",
-    icon: docker,
-  },
 ];
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "MDS Engineering Intern",
+    company_name: "Mondelez International",
+    //icon: starbucks,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed Gate Pass application from Quickbase for the Indonesian Plant Chikarang which saved about 20,000 pages per annum, 200+ manhours saved per month, Better Traceability for the audit team.",
+      "Developed TaxLitigation app for the Mondelez Legal and Finance Department using Power Apps which will automate all the tasks regarding litigation cases and better traceability for the audit team.",
+      "Worked with the projects using Agile Product Methodology",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "Software Engineering Intern",
+    company_name: "MoodMe (Austin,Texas)",
+    //icon: tesla,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      " Work: Build a customer facing website which analyzes your facial expressions in an E-commerce store and gives you a graph on whether or not you liked the product.",
+      "Code Management: Worked on AWS code commit to maintain the code.",
+      "Deployment: Used Siteground for hosting the application files.",
+      "Tech Stack: HTML5, CSS3, Javascript, AWS codecommit, Site ground, Tensorflow.",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    title: "Flutter Developer Intern",
+    company_name: "Data Byte Services and Systems (Mumbai)",
+    //icon: shopify,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Used Flutter to design and develop an app that enables users to manage their images more efficiently using image tags, where each image can be assigned a tag based on user’s preference and these images can later be searched by the given tags",
+      "Users are also provided with a duplicate detection feature that checks every image in the gallery and shows the user the duplicate images giving them the choice to delete or retain the image.",
+      " Other features include geotagging which shows the location of images taken using the app and image enhancements which provides user with crop, rotate, and other filter-based enhancements.",
+      
     ],
   },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
+  // {
+  //   title: "Full stack Developer",
+  //   company_name: "Meta",
+  //   icon: meta,
+  //   iconBg: "#E6DEDD",
+  //   date: "Jan 2023 - Present",
+  //   points: [
+  //     "Developing and maintaining web applications using React.js and other related technologies.",
+  //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+  //     "Implementing responsive design and ensuring cross-browser compatibility.",
+  //     "Participating in code reviews and providing constructive feedback to other developers.",
+  //   ],
+  // },
 ];
 
 const testimonials = [
